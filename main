@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Skylar GraysonP</title>
+		<title>Skylar Grayson</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -70,18 +70,17 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
+							<div class="col-4"><span class="image fit"><img src="images/prof.png" alt="" /></span></div>
+						<section>
+						<section>
 							<section class="alt">
-								<h3>Address</h3>
-								<p>1234 Somewhere Road #87257<br />
-								Nashville, TN 00000-0000</p>
+								<h3>Science Email</h3>
+								<a href="sigrayso@asu.edu">mail me</a>
+								
 							</section>
 							<section>
-								<h3>Phone</h3>
-								<p><a href="#">(000) 000-0000</a></p>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a href="#">info@untitled.tld</a></p>
+								<h3>Social Media Email</h3>
+								<a href="filledelespace1@gmail.com">mail me</a>
 							</section>
 							<section>
 								<h3>Social</h3>
