@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Skylar Grayson</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Skylar Grayson</h1>
+						<p> I'm an astrophysics PhD student at Arizona State University <br />
+							studying galactic downsizing due to AGN feedback.<br />
+							Read below to learn more! </p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">My Research</a></li>
+							<li class="active"><a href="scicomm.html">Science Communication</a></li>
+							<li><a href="references.html">Resources</a></li>
+							<li><a href="links.html">Quick Links</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://twitter.com/fille_delespace" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.tiktok.com/@filledelespace" class="icon brands alt fa-tiktok"><span class="label">TikTok</span></a></li>
+							<li><a href="https://www.youtube.com/channel/UC7bxJYcFhb48Zpg44m_EKDg" class="icon brands alt fa-youtube"><span class="label">YouTube</span></a></li>
+							
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<h1>I like to talk<br />
+									about science</h1>
+									
+								</header>
+								<p> <span class = "image left"><img src = "images/artemis.png" alt="" /> </span>Science communication has become a great passion of mine and something I will continue to pursue for my whole career.
+									Astrophysics research is often conducted purely for the sake of advancing the collective knowledge of humanity,
+									but too often the results are only shared in highly technical and jargon-filled papers. A large part of my motivation
+									in my work is to bring more people into this field that I love so much, without needing any sort of advanced degree. 
+									Additionally, as a young woman in a male-dominated field I hope to use science communication as a tool to increase representation
+									and inspire students from a variety of backgrounds into a career in science. I have spoken with high schoolers who discovered the 
+									field of astrophysics from my videos and people in their 60s who looked at the night sky for the first time in years thanks to me.
+									I am incredibly grateful for the fulfillment and inspiration I have found from the communities I am growing online. Science
+									communication is an essential part of my graduate school journey and career beyond. </p>
+								<p> Below you will find a portfolio summarizing my accounts and some of my recent work. </p>
+
+								</section>
+								
+
+					<article>
+						<header>
+							<h3>TikTok</h3>	
+							</header>
+						<p> My TikTok account, @filledelespace (French for Space Girl), can be found <a href="https://www.tiktok.com/@filledelespace"> here </a>. </p>
+						<p> As of January 2024, the account has over 145,000 total followers.</p>
+						<p> Here are some selected videos showcasing my content: </p>
+						<ul>
+							<li> <a href = "https://www.tiktok.com/@filledelespace/video/7278110632707247403?is_from_webapp=1&sender_devi ce=pc&web_id=7132908791809345070"> Misleading Science Reporting </a></li>
+							<li> <a href = "https://www.tiktok.com/@filledelespace/video/7249912204315708715?is_from_webapp=1&sender_devi ce=pc&web_id=7132908791809345070"> Gravitational Wave Background </a></li>
+							<li> <a href = "https://www.tiktok.com/@filledelespace/video/7195001627563117866?is_from_webapp=1&sender_devi ce=pc&web_id=7132908791809345070"> JWST Image Release </a></li>
+							<li> <a href = "https://www.tiktok.com/@filledelespace/video/7166288904306511150?is_from_webapp=1&sender_devi ce=pc&web_id=7132908791809345070"> Artemis 1 Launch </a></li>
+						</ul>
+							
+					</article>
+
+
+					<article>
+						<header>
+							<h3>Instagram </h3>	
+							</header>
+						<p> My Instagram account, @fille_delespace (French for Space Girl), can be found <a href="https://www.instagram.com/fille_delespace/"> here </a>. </p>
+						<p> As of January 2024, the account has over 29,000 total followers.</p>
+							
+					</article>
+
+					<article>
+						<header>
+							<h3>YouTube </h3>	
+							</header>
+						<p> My YouTube account, Space According to Skylar, can be found <a href="https://www.youtube.com/channel/UC7bxJYcFhb48Zpg44m_EKDg"> here </a>. </p>
+						<p> As of January 2024, the account has over 10,000 total followers.</p>
+							
+					</article>
+
+					<article>
+						<header>
+							<h3>Demographics </h3>	
+							</header>
+						<p> For a breakdown of the demographics of my audience on TikTok, Instagram, and YouTube as of September 2023, see <a href="/images/Demographics.pdf"> this file</a>.</p>
+							
+					</article>
+
+					<article>
+						<header>
+							<h3>Selected Appearances</h3>	
+							</header>
+						<p>
+						<ul>
+							<li> NASA Social for Artemis 1. I travelled to Kennedy Space Center to talk with NASA leadership and astronauts, visit facilities, and share my experiences and information about the Artemis program on my accounts. </li>
+							<li> Interviewed on the Starts With a Bang Podcast. You can find a recording <a href = "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-103-active-galaxies-and-the-universe/"> here. </a> </li>
+							<li> Interviewed for Youth STEM Matters Magazine. You can read the interview <a href = "https://www.youthstem2030.org/youth-stem-matters/read/in-conversation-with-skylar-grayson"> here. </a></li>
+							<li> Interviewed on the Everything STEAM Podcast. You can find a recording <a href = "https://everythingsteam.org/episodes/episode-galacticevolution"> here. </a></li>
+							
+						</ul></p>
+							
+					</article>
+					
+						
+					</div>
+<!-- Footer -->
+					<footer id="footer">
+
+						<section>
+							
+							<span class="image left"><img src="images/shot.png" alt="" /></span>
+						
+
+						<section>
+
+						
+						<section class="split contact">
+							<section class="alt">
+								<h3>Email</h3>
+								<p><a href="mailto:sigrayso@asu.edu">sigrayso@asu.edu</a></p>
+								
+							</section>
+							<section>
+								<h3>Social Media Contact</h3>
+								<p> <a href="mailto:filledelespace1@gmail.com">filledelespace1@gmail.com</a> </p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.tiktok.com/@filledelespace" class="icon brands alt fa-tiktok"><span class="label">TikTok</span></a></li>
+									<li><a href="https://www.instagram.com/fille_delespace/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="https://www.youtube.com/channel/UC7bxJYcFhb48Zpg44m_EKDg" class="icon brands alt fa-youtube"><span class="label">YouTube</span></a></li>
+								</ul>
+							
+							
+						</section>
+
+
+					</footer>
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
